@@ -1,2 +1,2 @@
 # epc
-Electric Potential Calculation
+This repository keeps an interactive program which implements the Electric Potential Calculation
